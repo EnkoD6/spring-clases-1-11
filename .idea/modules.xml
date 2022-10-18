@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ob-spring-helloworld/ob-spring-helloworld.iml" filepath="$PROJECT_DIR$/ob-spring-helloworld/ob-spring-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ob-spring-scan/ob-spring-scan.iml" filepath="$PROJECT_DIR$/ob-spring-scan/ob-spring-scan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ob-springdatapa/ob-springdatapa.iml" filepath="$PROJECT_DIR$/ob-springdatapa/ob-springdatapa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
+    </modules>
+  </component>
+</project>
